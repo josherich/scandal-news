@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html {
+  font-family: optima;
+}
+
+* {
+  box-sizing: border-box;
+}
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.app-selector {
+  margin: 10px 0;
+}
+
+#search_bar {
+  width: 400px;
+  padding: 10px;
+  border: 1px solid #999;
+}
+
+.region-filter, .category-filter, .platform-filter {
+  display: inline-block;
+  margin: 7px 10px;
+  padding: 5px 7px;
+  border-radius: 3px;
+  cursor: pointer;
+  &.selected {
+    color: white;
+    background: #39c;
+  }
+}
+
+.list-item {
+  display: block;
+  margin: 20px 0 40px 0;
+  width: 100%;
+  border-radius: 3px;
+  overflow: hidden;
+  cursor: pointer;
+  img {
+    width: 100%;
+  }
+  &.unfold .app-links {
+    display: block;
+  }
+}
+
+.img-wrap {
+  float: left;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,.05);
+}
+
+.info-wrap {
+  float: left;
+  vertical-align: top;
+  width: 400px;
+  height: 100px;
+  padding: 0 10px;
+  position: relative;
+  .app-title {
+    font-size: 18px;
+  }
+  .app-desc {
+    color: #999;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+.app-links {
+  display: none;
+  float: left;
+  a {
+    display: block;
+    margin: 10px 0;
+  }
+}

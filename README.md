@@ -1,3 +1,3 @@
 # scandal-pedia
 
-A Search Engine for Enterprise Scandal
+An Archive for Corporate and start-up Scandals
