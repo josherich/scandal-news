@@ -91,6 +91,20 @@ var data = {
         },
       ],
       "icon": "http://pic.pedaily.cn/201507/20150728@94289.jpg"
+    },
+    {
+      "name": "天猫",
+      "desc": "天猫锤子预定数造假",
+      "region": "China",
+      "category": "Audio",
+      "ref_urls": [
+        {
+          "url": "https://www.zhihu.com/question/25951778",
+          "title": "锤子天猫预定，不管什么时候预定数都能被 3 整除，这是什么高科技？",
+          "desc": ""
+        }
+      ],
+      "icon": "https://img.alicdn.com/tps/TB1eREfLVXXXXaHXFXXXXXXXXXX-480-260.png"
     }
   ]
 }
