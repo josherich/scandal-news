@@ -105,6 +105,30 @@ var data = {
         }
       ],
       "icon": "https://img.alicdn.com/tps/TB1eREfLVXXXXaHXFXXXXXXXXXX-480-260.png"
+    },
+    {
+      "name": "饿了么",
+      "desc": "饿了么315曝光",
+      "region": "China",
+      "category": "O2O",
+      "ref_urls": [
+        {
+          "url": "http://news.sina.com.cn/c/zg/2016-03-16/doc-ifxqhmve9250694.shtml",
+          "title": "央视315曝黑幕 新浪调查“饿了么”最戳网友痛",
+          "desc": ""
+        },
+        {
+          "url": "http://finance.qq.com/cross/20161110/1tk777LU.html#1",
+          "title": "穿越315火线，饿了么走过危机？",
+          "desc": ""
+        },
+        {
+          "url": "https://www.zhihu.com/question/41417321",
+          "title": "如何评价饿了么在2016年315晚会曝光后的危机公关？",
+          "desc": ""
+        }
+      ],
+      "icon": "http://sn.people.com.cn/NMediaFile/2015/1228/LOCAL201512281527000181851897296.jpeg"
     }
   ]
 }
