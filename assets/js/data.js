@@ -10,11 +10,6 @@ var data = {
           "url": "http://fortune.com/2017/04/13/uber-lyft-hell/",
           "title": "Uber Reportedly Had a Secret ‘Hell’ Program to Track Lyft Drivers",
           "desc": ""
-        },
-        {
-          "url": "https://medium.com/@amyvertino/my-name-is-not-amy-i-am-an-uber-survivor-c6d6541e632f#.5r1bitajc",
-          "title": "I am an Uber survivor.",
-          "desc": ""
         }
       ],
       "icon": "https://pbs.twimg.com/profile_images/803068198232801280/qdOCwY5V.jpg"
