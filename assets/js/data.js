@@ -157,6 +157,25 @@ var data = {
         }
       ],
       "icon": "http://sn.people.com.cn/NMediaFile/2015/1228/LOCAL201512281527000181851897296.jpeg"
+    },
+    {
+      "name": "华为",
+      "desc": "华为P10闪存事件",
+      "region": "China",
+      "category": "Manu",
+      "ref_urls": [
+        {
+          "url": "http://www.ifanr.com/821683",
+          "title": "华为正式回应「P10 闪存事件」：不存在歧视和欺骗消费者的情况",
+          "desc": ""
+        },
+        {
+          "url": "http://tech.qianlong.com/2017/0421/1623495.shtml",
+          "title": "华为P10闪存门背后：本土IC产业链布局不足",
+          "desc": ""
+        },
+      ],
+      "icon": "http://img14.deviantart.net/43ef/i/2011/241/5/5/huawei_logo_icon_by_mahesh69a-d48a7po.png"
     }
   ]
 }
