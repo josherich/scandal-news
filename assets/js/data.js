@@ -12,7 +12,7 @@ var data = {
           "desc": ""
         }
       ],
-      "icon": "https://pbs.twimg.com/profile_images/803068198232801280/qdOCwY5V.jpg"
+      "icon": "https://2q72xc49mze8bkcog2f01nlh-wpengine.netdna-ssl.com/wp-content/uploads/2011/12/New-Logo-Vertical-Dark.jpg"
     },
     {
       "name": "云视链/Video++",
@@ -46,7 +46,7 @@ var data = {
           "desc": ""
         }
       ],
-      "icon": "https://pbs.twimg.com/profile_images/803068198232801280/qdOCwY5V.jpg"
+      "icon": "https://2q72xc49mze8bkcog2f01nlh-wpengine.netdna-ssl.com/wp-content/uploads/2011/12/New-Logo-Vertical-Dark.jpg"
     },
     {
       "name": "百度外卖",
