@@ -174,6 +174,11 @@ var data = {
           "title": "华为P10闪存门背后：本土IC产业链布局不足",
           "desc": ""
         },
+        {
+          "url": "http://www.pingwest.com/huawei-p10-flash-gate/",
+          "title": "态度软了那么一点点，华为再度回应P10闪存门",
+          "desc": ""
+        },
       ],
       "icon": "http://img14.deviantart.net/43ef/i/2011/241/5/5/huawei_logo_icon_by_mahesh69a-d48a7po.png"
     }
