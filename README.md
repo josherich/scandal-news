@@ -1,6 +1,6 @@
-# scandal-pedia
+# scandal-news
 
-[scandal-pedia](https://josherich.github.io/scandal-pedia/)
+[scandal-news](https://josherich.github.io/scandal-news/)
 
 a collection of startup and tech corporate scandals
 
