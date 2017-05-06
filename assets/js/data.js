@@ -16,9 +16,23 @@ var data = {
     },
     {
       "name": "Uber",
+      "desc": "Uber uses software tool that helped its drivers evade local transportation regulators",
+      "region": "US",
+      "category": "Transportation",
+      "ref_urls": [
+        {
+          "url": "http://www.reuters.com/article/us-uber-tech-crime-exclusive-idUSKBN1802U1",
+          "title": "Uber faces criminal probe over software used to evade authorities",
+          "desc": ""
+        }
+      ],
+      "icon": "https://2q72xc49mze8bkcog2f01nlh-wpengine.netdna-ssl.com/wp-content/uploads/2011/12/New-Logo-Vertical-Dark.jpg"
+    },
+    {
+      "name": "Uber",
       "desc": "Uber use 'Hell' Program to Track Lyft Drivers",
       "region": "US",
-      "category": "AI",
+      "category": "Transportation",
       "ref_urls": [
         {
           "url": "http://fortune.com/2017/04/13/uber-lyft-hell/",
