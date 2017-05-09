@@ -209,6 +209,25 @@ var data = {
         },
       ],
       "icon": "http://img14.deviantart.net/43ef/i/2011/241/5/5/huawei_logo_icon_by_mahesh69a-d48a7po.png"
+    },
+    {
+      "name": "Theranos",
+      "desc": "the story of Elizabeth Holmes, miracle fell apart",
+      "region": "U.S.",
+      "category": "Bio",
+      "ref_urls": [
+        {
+          "url": "http://www.vanityfair.com/news/2016/09/elizabeth-holmes-theranos-exclusive",
+          "title": "EXCLUSIVE: HOW ELIZABETH HOLMES’S HOUSE OF CARDS CAME TUMBLING DOWN",
+          "desc": ""
+        },
+        {
+          "url": "https://techcrunch.com/2017/01/17/theranos-last-lab-inspection-test-fail/",
+          "title": "Theranos closed its last remaining blood-testing lab after it reportedly failed an inspection",
+          "desc": ""
+        }
+      ],
+      "icon": "http://mms.businesswire.com/media/20130909005578/en/381593/5/Theranos_Logo.jpg"
     }
   ]
 }
