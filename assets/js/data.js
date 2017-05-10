@@ -1,6 +1,20 @@
 var data = {
   "data": [
     {
+      "name": "ofo",
+      "desc": "ofo内部的贪腐现象",
+      "region": "China",
+      "category": "Trans",
+      "ref_urls": [
+        {
+          "url": "http://finance.qq.com/a/20170510/003951.htm",
+          "title": "ofo员工爆内部大范围贪腐 如何薅羊毛",
+          "desc": ""
+        }
+      ],
+      "icon": "http://s1.allchinatech.com/wp-content/uploads/2016/10/ofo-ofos-Weibo.jpg"
+    },
+    {
       "name": "小红书",
       "desc": "小红书疑似真假货混卖",
       "region": "China",
