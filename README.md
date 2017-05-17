@@ -1,6 +1,6 @@
 # scandal-news
 
-[scandal-news](https://josherich.github.io/scandal-news/)
+[scandal-news](https://news.mindynode.com)
 
 a collection of startup and tech corporate scandals
 
